@@ -1,0 +1,7 @@
+greeting: hi, hello, hey => Hey Ashrith! How’s your day?|Hello! Ready for today?|Hi there!
+stocks: stock, market, trading => Want me to check the latest stock prices?|Which stock do you want updates for?
+travel: travel, vacation, trip => Planning a trip? Where to next?|Do you want me to suggest destinations?
+joke: joke, funny => Why did the programmer quit his job? Because he didn’t get arrays!|I would tell you a UDP joke, but you might not get it!
+reminder: reminder, task, add reminder => Sure! I can help you add a task.|What task would you like to add?
+weather: weather, temperature, forecast => Checking the weather now...|Where do you want me to check the weather for?
+news: news, update, headlines => Fetching the latest news for you.|Here are today’s top headlines.
